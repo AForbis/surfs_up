@@ -1,4 +1,4 @@
-__Surfs Up__
+# Surfs Up Analysis
 
 # Overview of the Analysis
 
@@ -6,13 +6,13 @@ The purpose of the analysis was to collect additional information about temperat
 
 # Results
 
-June Temps
+## June Temps
 
-    ![](Screenshots/JuneTemps.png)
+![](Screenshots/JuneTemps.png)
 
-December Temps
+## December Temps
 
-    ![](Screenshots/DecemberTemps.png)
+![](Screenshots/DecemberTemps.png)
 
 1) Differences in Average temperature
 
@@ -28,7 +28,7 @@ December Temps
 
 3) Differences across quartiles
 
-    The differences in temperatures were slightly higher in June than December across the 25th, 50th, and 75th percentiles, where June was 4, 4, and 3 degrees higher, respectively. 
+    The differences in temperatures were slightly higher in June than December across the 25th, 50th, and 75th percentiles, where June was 4, 4, and 3 degrees higher, respectively.
 
 # Additional Queries to Gather More Data
 
