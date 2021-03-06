@@ -6,19 +6,19 @@ The purpose of the analysis was to collect additional information about temperat
 
 # Results
 
-__June Temps__
+June Temps
 
     ![](Screenshots/JuneTemps.png)
 
-__December Temps__
+December Temps
 
     ![](Screenshots/DecemberTemps.png)
 
-__Differences in Average temperature__
+1) Differences in Average temperature
 
     The difference in the average temperature was approximately 4 degrees. The average temperature was higher in June, where the average temperature in June was 75 degrees compared to 71 degrees in December.
 
-__Differences in Range, Min, Max__
+2) Differences in Range, Min, Max
 
     The difference in the range of temperatures between the two months was only 6 degrees, as the range in June was 21 degrees and the range in December was 27 degrees.
 
@@ -26,7 +26,7 @@ __Differences in Range, Min, Max__
 
     The difference in the minimum temperatures the two months was only 8 degrees, as the minimum temperature in June was 64 degrees and the minimum temperature in December was 56 degrees.
 
-__Differences across quartiles__
+3) Differences across quartiles
 
     The differences in temperatures were slightly higher in June than December across the 25th, 50th, and 75th percentiles, where June was 4, 4, and 3 degrees higher, respectively. 
 
