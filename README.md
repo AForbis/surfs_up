@@ -2,38 +2,38 @@ __Surfs Up__
 
 # Overview of the Analysis
 
-- The purpose of the analysis was to collect additional information about temperature trends before W. Avy decides to open the surf shop. Specifically, they wanted temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+The purpose of the analysis was to collect additional information about temperature trends before W. Avy decides to open the surf shop. Specifically, they wanted temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 # Results
 
-- Figure 1
+__June Temps__
 
     ![](Screenshots/JuneTemps.png)
 
-- Figure 2
+__December Temps__
 
     ![](Screenshots/DecemberTemps.png)
 
-- Average temperature
+__Differences in Average temperature__
 
-    The difference in the average temperature was approximately 4 degrees. The average temperature in June was 75 degrees compared to 71 degrees in December.
+    The difference in the average temperature was approximately 4 degrees. The average temperature was higher in June, where the average temperature in June was 75 degrees compared to 71 degrees in December.
 
-- Range, Min, Max:
+__Differences in Range, Min, Max__
 
-    The difference in the range of temperatures by month was 6 degrees, where the range of temperatures in June was 21 degrees and the range in December was 27 degrees.
+    The difference in the range of temperatures between the two months was only 6 degrees, as the range in June was 21 degrees and the range in December was 27 degrees.
 
-    The difference in the maximum temperatures was 2 degrees, where the max temperature in June was 85 degrees and the max in December was 83 degrees.
+    The difference in the maximum temperatures between the two months was only 2 degrees, as the maximum temperature in June was 85 degrees while the maximum in December was 83 degrees.
 
-    The difference in the minimum temperatures was 8 degrees, where the minimum temperature in June was 64 degrees and the minimum in December was 56 degrees.
+    The difference in the minimum temperatures the two months was only 8 degrees, as the minimum temperature in June was 64 degrees and the minimum temperature in December was 56 degrees.
 
-- Differences across quartiles
+__Differences across quartiles__
 
-    
+    The differences in temperatures were slightly higher in June than December across the 25th, 50th, and 75th percentiles, where June was 4, 4, and 3 degrees higher, respectively. 
 
 # Additional Queries to Gather More Data
 
-- Compare and contrast the precipation data between June and December across all years in the data set.
+1) Gather the remaining temperature data across the remaining 10 months and compare each month by their summary statistics.
 
-- Compare and contrast the precipitation data across the remaining 10 months.
+2) Gather the precipitation data from June and December and compare them by their summary statistics.
 
-- Compare and contrast the temperature data across the remaining 10 months.
+3) Gather the precipitation data across the remaining 10 months and compare each month by their summary statistics.
