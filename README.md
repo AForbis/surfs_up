@@ -39,3 +39,9 @@ Chart #2 - December Temps
     1) Gather the temperature data across the remaining 10 months and compare each month by their summary statistics to determine if the temperature in the remaining months will affect the business.
 
     2) Gather the precipitation data across all 12 months and compare each month by their summary statistics to determine if the precipation in certain months will affect the business.
+
+
+# Data Sources
+[1. Surfs Up Challenge File](SurfsUp_Challenge.ipynb)
+
+[2. Hawaii Weather Database](hawaii.sqlite)
